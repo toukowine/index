@@ -24,7 +24,7 @@
     {q: 'カナダについて正しいものを選んでください？', c: ['VQAに沿ったワイン生産が行われているのはオンタリオ州とブリテッィシュ・コロンビア州だけである', 'モントリオール付近にもワイナリーがある', 'オンタリオ州ではアイスワインのぶどう収穫は、1月中旬から2月初旬が多い', 'Nova Scotia州とQuebec州にワイン産地が集中している']},
     {q: 'カナダの高品質なワインの認証制度に関係する機関は？', c: ['VQA', 'PDO', 'AVA', 'WO']},
     {q: 'Ontario州にある産地は？', c: ['Lake Erie North Shore', 'Gulf Islands', 'Fraser Valley', 'Vancouver Island']},
-    {q: 'カナダで最東のワイン産地は？', c: ['Prince Edward County', 'Fraser Valley', 'Prince Edward County', 'Okanagan Valley']},
+    {q: 'カナダで最東のワイン産地は？', c: ['Prince Edward County', 'Fraser Valley', 'Gulf Islands', 'Okanagan Valley']},
     {q: 'Ontario州最大のブドウ品種は？', c: ['Chardonnay', 'Pinot Noir', 'Riesling', 'Merlot']},
     {q: 'ジョンシラーが最初のワイン造りを始めた州は？', c: ['Ontario', 'Quebec', 'British Columbia', 'kent']},
     {q: 'カナダのジョンシラーといえば何年？', c: ['1811', '1832', '1843', '1620']},
